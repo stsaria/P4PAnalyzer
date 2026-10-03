@@ -1,2 +1,4 @@
+P4PCore@git+https://github.com/stsaria/P4PCore@main
+P4PNodeGossiper@git+https://github.com/stsaria/P4PNodeGossiper@main
 pygame
 numpy

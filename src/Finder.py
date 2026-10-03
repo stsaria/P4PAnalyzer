@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
+AIによって生成されたコードです。内容の正確性は保証されません。
+
 P4P5 高速トラフィック・ヒートマップ
 
 実行:
     sudo -E python3 p4p5_heatmap.py            # 実トラフィック (rawソケットは root/管理者権限が必要)
-    python3 p4p5_heatmap.py --demo 5000        # 5000ノードの疑似トラフィックで動作確認
+    python3 src/Finder.py --demo 5000        # 5000ノードの疑似トラフィックで動作確認
 
 依存: pip install pygame numpy
 操作: ESC で終了 / ノードにマウスを乗せると IP:Port 表示
